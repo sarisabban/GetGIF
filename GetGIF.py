@@ -3,8 +3,8 @@
 import urllib.request , re , time , sys , bs4 , praw , requests
 
 #Reddit Credentials:
-bot_id			= 'qGw_Fmua6S--BA'
-secret			= 'UkDKfAsGRGmnDbuHh2zjOKZdYr4'
+bot_id			= ''
+secret			= ''
 
 def Reddit(Topic , NumberOfTopics):
 	TheList = list()
